@@ -8,4 +8,10 @@
     <string name="get_directions">Get Directions</string>
     <string name="get_information">Get Information</string>
 
+    <string name="tours_welcome">Please choose a type of tour.</string>
+    <string name="tours_class">Class</string>
+    <string name="tours_residential">Residential</string>
+    <string name="tours_art">Art</string>
+    <string name="tours_weekend">Weekend</string>
+
 </resources>

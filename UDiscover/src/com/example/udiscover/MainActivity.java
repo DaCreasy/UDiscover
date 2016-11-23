@@ -45,7 +45,7 @@ public class MainActivity extends Activity {
 
 	public void onDirectionsClicked(View view)
 	{
-		Intent intent = new Intent(this, GetTourActivity.class);
+		Intent intent = new Intent(this, GetDirectionsActivity.class);
 
 		startActivity(intent);
 	}
