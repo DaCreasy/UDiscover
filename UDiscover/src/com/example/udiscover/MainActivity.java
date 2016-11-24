@@ -52,7 +52,7 @@ public class MainActivity extends Activity {
 
 	public void onInformationClicked(View view)
 	{
-		Intent intent = new Intent(this, GetDirectionsActivity.class);
+		Intent intent = new Intent(this, GetInformationActivity.class);
 
 		startActivity(intent);
 	}
