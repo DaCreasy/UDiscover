@@ -2,20 +2,31 @@ package com.example.udiscover;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.view.Gravity;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.LinearLayout;
+import android.widget.TextView;
 
 /**
- * This activity displays a menu of the possible types of tours. Buttons are used for further input
- * from the user.
+ * Leads the user to the destination that the user previously chose.
  */
 
-public class GetTourActivity extends Activity {
+public class ToDestinationActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_tours);
+        setContentView(R.layout.activity_to_destination);
+
+        String destination = getIntent().getStringExtra("DESTINATION_CHOICE");
+        LinearLayout linearLayout = (LinearLayout) findViewById(R.id.dest_linear_layout);
+        TextView textView = new TextView(this);
+        textView.setText(destination);
+        textView.setGravity(Gravity.CENTER);
+        linearLayout.addView(textView);
+        //Use the location with the GPS/map.
+
     }
 
     @Override

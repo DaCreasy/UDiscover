@@ -7,6 +7,10 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 
+/**
+ * This activity starts the application. It then greets the user and provides a list of options (buttons)
+ * the user can choose from.
+ */
 public class MainActivity extends Activity {
 
 	@Override

@@ -27,7 +27,7 @@
         android:layout_margin="20dp"
         android:text="@string/get_tour"
         android:background="#f00"
-        android:onClick="onToursClicked"/>
+        android:onClick="onTourClicked"/>
 
     <Button
         android:id="@+id/button_main_directions"
