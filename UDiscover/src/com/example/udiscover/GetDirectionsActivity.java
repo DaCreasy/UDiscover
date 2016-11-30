@@ -43,7 +43,16 @@ public class GetDirectionsActivity extends Activity {
     //List of strings to display in the View list.
     private static final String[] URSINUS_PLACES = new String[] {
             "Berman Museum", "Bomberger Hall", "Bookstore",  "Campus Safety", "Corson Hall", "Floy Lewis Bakes Center",
-            "Myrin Library", "Olin Hall", "Kaleidoscope", "Pfahler Hall", "Ritter Hall", "Thomas Hall", "Wismer Center"
+            "Myrin Library", "Olin Hall", "Kaleidoscope", "Pfahler Hall", "Ritter Hall", "Thomas Hall", "Wismer Center",
+       
+        "Facilities Service","Unity House","Hillel House","Wellness Center","Practice Field South","Patterson Field","E.F.Snell Field"
+            "Thomas BaseBall Field","Tennnis Court","Pratice Field North","Wilkes Field North","Hunsberger Wood Practice Field and Organic Farm",
+        "Claoke House","Isenberg Hall","Elliott House","Todd Hall","Wicks House","Omwake Hall","Reimert Hall","Curtis Hall",
+        "Wilkinson Hall","Lynnewood Hall","Schaff Hall","Olevian Hall","Zwingli Hall","Duryea Hall","Shreiner Hall","Musser",
+        "Hobson Hall","Sprankle Hall","Sturgis Hall", "Beardwood Hall","Paisley Hall","Richter Hall","North Hall",
+        "Fetterolf House","Maples Hall","Keigwin Hall","CommonWealth","New Hall","Barber Shop","Clamer Hall",
+   
+     
     };
 
     @Override
