@@ -19,13 +19,25 @@
         android:id="@+id/places_list"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
-        android:layout_marginTop="65dp"
+        android:layout_marginTop="0dp"
         android:ems="10"
         android:backgroundTint="#ffA500"
-        android:layout_centerHorizontal="true"
         android:layout_gravity="center_vertical|center_horizontal"
         android:elevation="0dp"
-        android:background="#ffA500" />
+        android:background="#ffA500"
+        android:padding="10dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true" />
+
+    <Spinner
+        android:id="@+id/destination_spinner"
+        android:entries="@array/locations_array"
+        android:prompt="@string/spinner_prompt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="50dp"
+        android:padding="10dp"
+        android:background="#ffA500"
+        android:overlapAnchor="false" />
 
 </LinearLayout>
