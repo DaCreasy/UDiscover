@@ -1,0 +1,204 @@
+NOTE: These locations only include those listed on the printable map on the UC website.
+Additional locations, including waypoints for art tours, are not in this list and
+must be retrieved. 
+
+ +	  201 9th Ave.
+	40.195280, -75.460034
+
+ +        30-32 6th Ave.
+	40.190404, -75.458659
+
+ +        424-426 Main St.
+	40.188710, -75.454313
+
+ +        444 Main St.
+	40.188926, -75.454383
+
+ +        624 Main St.
+	40.191550, -75.459269
+
+ +        732 Main St.
+	40.192285, -75.461041
+
+ +        777 Main St.
+	40.192535, -75.459866
+
+ +        942 Main St.
+	40.193341, -75.463948
+
+ +        944 Main St.
+	40.193511, -75.464281
+
+ +        Barbershop (476 Main St.) 
+	40.189772, -75.455286
+
+ +        Beardwood Hall
+	40.192624, -75.455802
+
+ +        Berman Art Museum
+	40.191889, -75.456277
+
+ +        Bomberger Hall
+	40.191966, -75.457117
+
+ +        Bookstore
+	40.193265, -75.456758
+
+ +        Brodbeck Hall
+	40.192956, -75.457820
+
+ +        Campus Safety
+	40.192895, -75.456699
+
+ +        Clamer Hall
+	40.188562, -75.453233
+
+ +        Cloake House
+	40.193057, -75.461127
+
+ +        Commonwealth Hall
+	40.190401, -75.456187
+
+ +        Corson Hall
+	40.191481, -75.455823
+
+ +        Curtis Hall
+	40.193144, -75.458274
+
+ +        Duryea Hall
+	40.191332, -75.458803
+
+ +        E.F. Snell Hockey Field
+	40.195610, -75.455586
+
+ +        Elliot House
+	40.192653, -75.460162
+
+ +        Facilities Service/Mail Center
+	40.191853, -75.454597
+
+ +        Fetterolf House
+	40.191055, -75.457858
+
+ +        Floy Lewis Bake Center/Helfferich Gym
+	40.194402, -75.456910
+
+ +        Hillel House
+	40.190547, -75.459089
+
+ +        Hobson Hall
+	40.191163, -75.458269
+
+ +        Hunsberger Practice Field/Organic Farm
+	40.198503, -75.457931
+
+ +        Isenberg Hall
+	40.192705, -75.460852
+
+ +        Kaleidoscope
+	40.193943, -75.457958
+
+ +        Keigwin Hall
+	40.190772, -75.456234
+
+ +        Lynnewood Hall
+	40.191895, -75.460069
+
+ +        Maples Hall
+	40.190480, -75.456545
+
+ +        Musser Hall
+	40.190836, -75.459042
+
+ +        Myrin Library
+	40.192487, -75.457496
+
+ +        New Hall
+	40.193625, -75.454592
+
+ +        North Hall
+	40.193152, -75.454723
+
+ +        Olevian Hall
+	40.191685, -75.459670
+
+ +        Olin Hall
+	40.192351, -75.456767
+
+ +        Omwake Hall
+	40.193004, -75.459350
+
+ +        Paisley Hall
+	40.192658, -75.455360
+
+ +        Patterson Field
+	40.194752, -75.454648
+
+ +        Pfahler Hall
+	40.192744, -75.458893
+
+ +        Practice Field North
+	40.196029, -75.453589
+
+ +        Practice Field South
+	40.192627, -75.453877
+
+ +        Reimert Hall
+	40.193640, -75.459110
+
+ +        Richter Hall
+	40.193366, -75.455200
+
+ +        Ritter Hall
+	40.194506, -75.455878
+
+ +        Schaff Hall
+	40.191813, -75.459801
+
+ +        Shreiner Hall
+	40.191813, -75.459801
+
+ +        Snell Softball Field
+	40.196504, -75.454693
+
+ +        Sprankle Hall
+	40.191389, -75.455146
+
+ +        Stauffer Hall
+	40.192338, -75.455192
+
+ +        Sturgis Hall
+	40.190533, -75.458463
+
+ +        Tennis Court
+	40.196669, -75.455814
+
+ +        Thomas Baseball Field
+	40.196320, -75.457271
+
+ +        Thomas Hall
+	40.193005, -75.459384
+
+ +        Todd Hall
+	40.192173, -75.460734
+
+ +        Unity House
+	40.191051, -75.456255
+
+ +        Wellness Center
+	40.193406, -75.460118
+
+ +        Wicks House
+	40.192043, -75.460376
+
+ +        Wilkes Soccer Field
+	40.192043, -75.460376
+
+ +        Wilkinson Hall
+	40.193036, -75.458059
+
+ +        Wismer Center
+	40.192999, -75.456444
+
+ +        Zwingli Hall
+	40.191429, -75.459050
