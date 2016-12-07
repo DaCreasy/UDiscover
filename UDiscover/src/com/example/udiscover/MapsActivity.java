@@ -43,4 +43,16 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         mMap.addMarker(new MarkerOptions().position(sydney).title("Marker in Sydney"));
         mMap.moveCamera(CameraUpdateFactory.newLatLng(sydney));
     }
+    
+    /*
+    Method "generateMarker"
+    parameters:
+        String "loc_name" is the name of the location passed via intent upon button press
+        
+    Using "loc_name", a switch statement will create "LatLng loc_latlng"
+    
+    returns:
+        "Marker loc_marker" is the Marker object created in this method. It will use "loc_name" as title parameter
+        and "loc_latlng" as its LatLng
+    */
 }
