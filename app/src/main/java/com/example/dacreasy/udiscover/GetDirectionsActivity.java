@@ -66,7 +66,7 @@ public class GetDirectionsActivity extends Activity {
             public void onItemSelected(AdapterView<?> arg0, View view, int position, long row_id) {
                 if (firstSpinnerSelection)
                 {
-                    firstSpinnerSelection = false;
+                    firstSpinnerSelection = false;//
                     return; //this is a bug in android where when you open an activity with a Spinner, it automatically selects
                     //the first item in a Spinner.
                 }
